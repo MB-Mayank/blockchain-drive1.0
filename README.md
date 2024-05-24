@@ -15,8 +15,7 @@
 
 ### Clone and Navigate
 ```sh
-git clone https://github.com/your-username/decentralized-image-upload.git
-cd Dgdrive3.0
+git clone https://github.com/MB-Mayank/blockchain-drive1.0.git
 ```
 
 ### Install Dependencies
