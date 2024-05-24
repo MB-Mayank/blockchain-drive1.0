@@ -1,6 +1,4 @@
-Sure, here is a shorter README.md formatted for GitHub:
 
-```markdown
 # Decentralized Image Upload
 
 ## Features
